@@ -22,14 +22,14 @@ or just look at the notebooks
 
 ## Content
 
-[preprocessing](preprocessing.ipnyb)
+[preprocessing](preprocessing.ipynb)
 
 - mask an image based on color channels
 - transform / warp an image to align text
 - edge detection
 - smoothing / blurring
 
-[image-segmentation](image-segmentation.ipnyb)
+[image-segmentation](image-segmentation.ipynb)
 
 - contour detection
 - detecting the orientation of an object
