@@ -34,6 +34,7 @@ or just look at the notebooks
 - contour detection
 - detecting the orientation of an object
 - line detection using hough space
+- k means clustering on pixel colors
 
 ## Attribution
 
